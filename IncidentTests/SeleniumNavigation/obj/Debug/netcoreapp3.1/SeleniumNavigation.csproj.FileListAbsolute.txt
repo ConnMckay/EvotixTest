@@ -1,0 +1,10 @@
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\bin\Debug\netcoreapp3.1\SeleniumNavigation.deps.json
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\bin\Debug\netcoreapp3.1\SeleniumNavigation.dll
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\bin\Debug\netcoreapp3.1\SeleniumNavigation.pdb
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.AssemblyInfoInputs.cache
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.AssemblyInfo.cs
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.csproj.CoreCompileInputs.cache
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.dll
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.pdb
+C:\Users\connm\source\repos\EvotixTest\IncidentTests\SeleniumNavigation\obj\Debug\netcoreapp3.1\SeleniumNavigation.csproj.AssemblyReference.cache

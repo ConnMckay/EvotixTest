@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3MeppNWwmTm3823aIBJdzj8WBM17+B3shTudA/uUh/vK5cQO4nOw9KkY1VVUmo7qvWgFKS7wqkHMa9to1Z88w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\connm\\source\\repos\\EvotixTest\\IncidentTests\\SeleniumNavigation\\SeleniumNavigation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\connm\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\connm\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\connm\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\connm\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
